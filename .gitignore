@@ -7,9 +7,10 @@
 **/_HIDE
 **/hidden
 **/tmp
+**/Untitled*.ipynb
 
 lessons/00_TO_ADD
 lessons/M*
 !lessons/M01*
 !lessons/M02*
-
+!lessons/M03*
