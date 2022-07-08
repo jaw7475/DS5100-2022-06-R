@@ -253,6 +253,11 @@ chicago %>%
   head()
 ```
 
+```{r}
+chicago %>%
+  desc(date)
+```
+
 # `rename()`
 
 Renaming a variable in a data frame in R is surprisingly hard to do!
